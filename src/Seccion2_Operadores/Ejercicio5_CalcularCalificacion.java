@@ -10,7 +10,7 @@ package Seccion2_Operadores;
 import java.util.Scanner;
 
 
-public class Ejercicio_5 {
+public class Ejercicio5_CalcularCalificacion {
     
     public static void main (String [] args){
         

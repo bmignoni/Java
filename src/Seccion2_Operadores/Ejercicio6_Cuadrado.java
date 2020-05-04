@@ -6,7 +6,7 @@ package Seccion2_Operadores;
 
 import java.util.Scanner;
 
-public class Ejercicio_6 {
+public class Ejercicio6_Cuadrado {
     
     public static void main (String[] args){
         

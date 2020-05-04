@@ -8,7 +8,7 @@ package Seccion2_Operadores;
 import java.util.Scanner;
 
 
-public class Ejercicio_3 {
+public class Ejercicio3_nDineroPersonas {
     
     public static void main (String [] args){
         

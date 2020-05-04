@@ -16,10 +16,10 @@ public class InputOutput {
        letra = JOptionPane.showInputDialog("Digite un caracter: ").charAt(0);
        decimal = Double.parseDouble(JOptionPane.showInputDialog("Difite un decimal: "));
        
-       JOptionPane.showMessageDialog(null, "Lacdena es: "+cadena);
-       JOptionPane.showMessageDialog(null, "El numero entero es: "+entero);
-       JOptionPane.showMessageDialog(null, "El caracter es: "+letra);
-       JOptionPane.showMessageDialog(null, "El numero decimal es: "+decimal);
+       JOptionPane.showMessageDialog(null, "La cadena es: "+ cadena);
+       JOptionPane.showMessageDialog(null, "El numero entero es: "+ entero);
+       JOptionPane.showMessageDialog(null, "El caracter es: "+ letra);
+       JOptionPane.showMessageDialog(null, "El numero decimal es: "+ decimal);
        // con el JOptionPane se pone 14.23 es decir, con "." (punto) no se utiliza la "," (coma)
        
        

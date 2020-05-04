@@ -6,7 +6,7 @@ package Seccion2_Operadores;
 
 import java.util.Scanner;
 
-public class Ejercicio_2 {
+public class Ejercicio2_Salario {
     public static void main (String [] args){
         
         Scanner entrada = new Scanner(System.in);

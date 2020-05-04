@@ -6,7 +6,7 @@ package Seccion2_Operadores;
 
 import java.util.Scanner;
 
-public class Ejercicio_7 {
+public class Ejercicio7_HorasEnSemanasDiasHoras {
     
     public static void main (String[] args){
         

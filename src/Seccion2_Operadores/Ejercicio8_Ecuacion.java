@@ -6,7 +6,7 @@ package Seccion2_Operadores;
 
 import java.util.Scanner;
 
-public class Ejercicio_8 {
+public class Ejercicio8_Ecuacion {
     
     public static void main (String[] args){
     

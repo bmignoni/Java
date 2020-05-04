@@ -6,7 +6,7 @@ package Seccion2_Operadores;
 import java.util.Scanner;
 
 
-public class Ejercicio_1 {
+public class Ejercicio1_SumarCalificaciones {
     
     public static void main (String [] args){
         Scanner entrada = new Scanner (System.in);

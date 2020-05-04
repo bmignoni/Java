@@ -10,7 +10,7 @@ package Seccion2_Operadores;
 import java.util.Scanner;
 
 
-public class Ejercicio_4 {
+public class Ejercicio4_SalarioVendedorAuto {
     
     public static void main (String [] args){
         Scanner entrada = new Scanner(System.in);

@@ -12,7 +12,7 @@ public class TipoVariables {
         boolean decision = true;
         
         
-        // Una variable es un espacio de memoria donde se almacenara un dato (byte, float, double, long, string, etc
+        // Una variable es un espacio de memoria donde se almacenara un dato (byte, float, double, long, string, etc)
         System.out.println("Estos son tipos de variables");
         System.out.println("El tipo byte entero es: " + entero);
         System.out.println("El tipo long entero es: " + entero2);
